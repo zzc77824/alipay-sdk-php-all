@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.dtbank.activitybill.query request
  *
  * @author auto create
- * @since 1.0, 2024-10-24 10:17:25
+ * @since 1.0, 2025-02-13 11:52:22
  */
 class AlipayUserDtbankActivitybillQueryRequest
 {
