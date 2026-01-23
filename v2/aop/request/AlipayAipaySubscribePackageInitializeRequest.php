@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.aipay.subscribe.package.initialize request
  *
  * @author auto create
- * @since 1.0, 2025-09-04 10:12:38
+ * @since 1.0, 2025-11-19 16:47:41
  */
 class AlipayAipaySubscribePackageInitializeRequest
 {

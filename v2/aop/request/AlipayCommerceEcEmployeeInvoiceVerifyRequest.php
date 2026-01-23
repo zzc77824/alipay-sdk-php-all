@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.employee.invoice.verify request
  *
  * @author auto create
- * @since 1.0, 2025-10-28 11:17:41
+ * @since 1.0, 2025-12-03 11:22:03
  */
 class AlipayCommerceEcEmployeeInvoiceVerifyRequest
 {

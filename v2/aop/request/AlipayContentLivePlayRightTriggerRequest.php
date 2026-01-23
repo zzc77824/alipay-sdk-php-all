@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.content.live.play.right.trigger request
  *
  * @author auto create
- * @since 1.0, 2025-04-22 14:17:28
+ * @since 1.0, 2025-12-04 13:47:42
  */
 class AlipayContentLivePlayRightTriggerRequest
 {

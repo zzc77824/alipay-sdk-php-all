@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.freightflow.fundtrade.create request
  *
  * @author auto create
- * @since 1.0, 2025-07-02 19:17:32
+ * @since 1.0, 2025-12-15 10:37:42
  */
 class AlipayCommerceLogisticsFreightflowFundtradeCreateRequest
 {

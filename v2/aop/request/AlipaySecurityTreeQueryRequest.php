@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.tree.query request
  *
  * @author auto create
- * @since 1.0, 2025-10-10 15:03:28
+ * @since 1.0, 2025-11-27 10:55:01
  */
 class AlipaySecurityTreeQueryRequest
 {

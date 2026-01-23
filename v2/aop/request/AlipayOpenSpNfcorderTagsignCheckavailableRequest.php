@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.nfcorder.tagsign.checkavailable request
  *
  * @author auto create
- * @since 1.0, 2025-08-04 16:02:36
+ * @since 1.0, 2025-11-13 16:39:09
  */
 class AlipayOpenSpNfcorderTagsignCheckavailableRequest
 {

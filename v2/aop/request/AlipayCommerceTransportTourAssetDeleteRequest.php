@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.tour.asset.delete request
  *
  * @author auto create
- * @since 1.0, 2025-08-06 21:07:35
+ * @since 1.0, 2025-11-20 14:30:30
  */
 class AlipayCommerceTransportTourAssetDeleteRequest
 {

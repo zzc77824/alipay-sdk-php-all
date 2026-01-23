@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.ndevice.metricsforday.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-08-21 13:47:35
+ * @since 1.0, 2025-11-28 15:52:41
  */
 class AlipayCommerceOperationNdeviceMetricsfordayBatchqueryRequest
 {

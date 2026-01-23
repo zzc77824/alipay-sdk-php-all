@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.incentivecode.active.sync request
  *
  * @author auto create
- * @since 1.0, 2025-09-05 14:37:38
+ * @since 1.0, 2026-01-07 10:17:42
  */
 class AlipayCommerceLogisticsIncentivecodeActiveSyncRequest
 {

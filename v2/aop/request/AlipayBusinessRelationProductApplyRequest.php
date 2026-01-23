@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.relation.product.apply request
  *
  * @author auto create
- * @since 1.0, 2025-08-14 02:22:39
+ * @since 1.0, 2025-12-04 13:42:53
  */
 class AlipayBusinessRelationProductApplyRequest
 {

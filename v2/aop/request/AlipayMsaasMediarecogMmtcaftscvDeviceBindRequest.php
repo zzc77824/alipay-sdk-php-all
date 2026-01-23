@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.mmtcaftscv.device.bind request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:10:53
+ * @since 1.0, 2025-12-31 10:42:42
  */
 class AlipayMsaasMediarecogMmtcaftscvDeviceBindRequest
 {

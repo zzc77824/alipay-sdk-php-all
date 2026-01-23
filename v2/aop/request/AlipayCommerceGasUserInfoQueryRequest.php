@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.gas.user.info.query request
  *
  * @author auto create
- * @since 1.0, 2025-07-01 16:02:29
+ * @since 1.0, 2025-12-03 14:48:32
  */
 class AlipayCommerceGasUserInfoQueryRequest
 {

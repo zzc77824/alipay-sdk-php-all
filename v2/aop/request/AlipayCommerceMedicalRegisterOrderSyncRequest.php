@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.register.order.sync request
  *
  * @author auto create
- * @since 1.0, 2025-08-21 18:22:36
+ * @since 1.0, 2026-01-14 14:32:42
  */
 class AlipayCommerceMedicalRegisterOrderSyncRequest
 {

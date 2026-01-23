@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.careertraining.exam.modify request
  *
  * @author auto create
- * @since 1.0, 2025-10-13 16:27:40
+ * @since 1.0, 2025-12-03 17:02:42
  */
 class AlipayEbppIndustryCareertrainingExamModifyRequest
 {

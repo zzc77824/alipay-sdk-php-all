@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.careertraining.course.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-08-18 14:17:36
+ * @since 1.0, 2026-01-14 10:57:43
  */
 class AlipayEbppIndustryCareertrainingCourseBatchqueryRequest
 {

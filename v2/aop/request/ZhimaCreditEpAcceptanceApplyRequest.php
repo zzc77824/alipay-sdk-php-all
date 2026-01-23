@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.acceptance.apply request
  *
  * @author auto create
- * @since 1.0, 2024-12-25 11:29:56
+ * @since 1.0, 2025-11-19 10:39:06
  */
 class ZhimaCreditEpAcceptanceApplyRequest
 {

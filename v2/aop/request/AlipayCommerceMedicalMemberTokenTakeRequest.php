@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.member.token.take request
  *
  * @author auto create
- * @since 1.0, 2025-09-26 20:37:40
+ * @since 1.0, 2025-12-12 16:05:38
  */
 class AlipayCommerceMedicalMemberTokenTakeRequest
 {

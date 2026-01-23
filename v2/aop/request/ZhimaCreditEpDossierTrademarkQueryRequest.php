@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.dossier.trademark.query request
  *
  * @author auto create
- * @since 1.0, 2025-03-21 10:37:29
+ * @since 1.0, 2025-12-18 10:07:42
  */
 class ZhimaCreditEpDossierTrademarkQueryRequest
 {

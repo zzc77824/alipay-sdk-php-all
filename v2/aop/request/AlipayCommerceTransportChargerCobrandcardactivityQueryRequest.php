@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.charger.cobrandcardactivity.query request
  *
  * @author auto create
- * @since 1.0, 2025-10-13 17:47:40
+ * @since 1.0, 2025-11-17 17:12:42
  */
 class AlipayCommerceTransportChargerCobrandcardactivityQueryRequest
 {

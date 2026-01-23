@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.hdfrtc.videorecord.query request
  *
  * @author auto create
- * @since 1.0, 2025-10-17 14:44:02
+ * @since 1.0, 2025-11-19 15:47:40
  */
 class AlipayCommerceMedicalHdfrtcVideorecordQueryRequest
 {

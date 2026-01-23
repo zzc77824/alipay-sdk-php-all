@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.order.waybill.sync request
  *
  * @author auto create
- * @since 1.0, 2025-03-21 10:52:29
+ * @since 1.0, 2025-12-30 14:12:41
  */
 class AlipayCommerceMedicalOrderWaybillSyncRequest
 {

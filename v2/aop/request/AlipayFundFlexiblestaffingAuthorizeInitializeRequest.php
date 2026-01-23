@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.flexiblestaffing.authorize.initialize request
  *
  * @author auto create
- * @since 1.0, 2025-07-23 15:25:02
+ * @since 1.0, 2025-11-21 15:32:41
  */
 class AlipayFundFlexiblestaffingAuthorizeInitializeRequest
 {

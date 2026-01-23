@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.expo.attendconfig.save request
  *
  * @author auto create
- * @since 1.0, 2025-11-03 15:02:41
+ * @since 1.0, 2025-11-10 10:20:53
  */
 class AlipayOfflineProviderExpoAttendconfigSaveRequest
 {

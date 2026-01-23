@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.recycle.order.aftersale.create request
  *
  * @author auto create
- * @since 1.0, 2025-09-02 11:27:39
+ * @since 1.0, 2026-01-15 17:35:20
  */
 class AlipayCommerceRecycleOrderAftersaleCreateRequest
 {

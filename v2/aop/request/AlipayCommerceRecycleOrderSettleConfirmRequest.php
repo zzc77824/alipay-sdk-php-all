@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.recycle.order.settle.confirm request
  *
  * @author auto create
- * @since 1.0, 2025-09-02 11:27:39
+ * @since 1.0, 2025-11-14 16:42:41
  */
 class AlipayCommerceRecycleOrderSettleConfirmRequest
 {

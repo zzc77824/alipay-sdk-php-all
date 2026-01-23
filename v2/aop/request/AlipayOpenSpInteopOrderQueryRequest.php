@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.inteop.order.query request
  *
  * @author auto create
- * @since 1.0, 2025-10-23 20:37:41
+ * @since 1.0, 2025-12-16 10:17:42
  */
 class AlipayOpenSpInteopOrderQueryRequest
 {

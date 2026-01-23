@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.medmsg.eventmsg.notify request
  *
  * @author auto create
- * @since 1.0, 2025-07-16 15:22:31
+ * @since 1.0, 2025-12-02 17:22:42
  */
 class AlipayCommerceMedicalMedmsgEventmsgNotifyRequest
 {

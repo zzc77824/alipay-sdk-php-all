@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.parking.fee.query request
  *
  * @author auto create
- * @since 1.0, 2025-08-21 10:22:36
+ * @since 1.0, 2026-01-15 10:07:43
  */
 class AlipayCommerceTransportParkingFeeQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.broadcast.query request
  *
  * @author auto create
- * @since 1.0, 2025-11-04 16:07:05
+ * @since 1.0, 2025-11-06 09:47:40
  */
 class AlipayOfflineProviderBroadcastQueryRequest
 {

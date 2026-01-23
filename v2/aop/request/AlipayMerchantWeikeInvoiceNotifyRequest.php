@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.weike.invoice.notify request
  *
  * @author auto create
- * @since 1.0, 2025-08-19 17:52:35
+ * @since 1.0, 2025-12-22 09:53:03
  */
 class AlipayMerchantWeikeInvoiceNotifyRequest
 {

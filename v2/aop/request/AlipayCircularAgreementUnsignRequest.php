@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.circular.agreement.unsign request
  *
  * @author auto create
- * @since 1.0, 2025-09-24 16:32:40
+ * @since 1.0, 2026-01-19 17:22:43
  */
 class AlipayCircularAgreementUnsignRequest
 {

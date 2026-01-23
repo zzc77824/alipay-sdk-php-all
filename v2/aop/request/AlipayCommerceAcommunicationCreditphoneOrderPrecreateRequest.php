@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.creditphone.order.precreate request
  *
  * @author auto create
- * @since 1.0, 2025-06-10 11:27:28
+ * @since 1.0, 2025-11-27 10:02:42
  */
 class AlipayCommerceAcommunicationCreditphoneOrderPrecreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.register.burrypoint.notify request
  *
  * @author auto create
- * @since 1.0, 2025-10-16 16:47:40
+ * @since 1.0, 2026-01-14 14:42:42
  */
 class AlipayCommerceMedicalRegisterBurrypointNotifyRequest
 {

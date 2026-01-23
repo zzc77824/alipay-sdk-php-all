@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.hdfrtc.videoconference.stop request
  *
  * @author auto create
- * @since 1.0, 2025-11-03 10:42:41
+ * @since 1.0, 2025-11-21 11:07:41
  */
 class AlipayCommerceMedicalHdfrtcVideoconferenceStopRequest
 {

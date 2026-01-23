@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.circular.agreement.query request
  *
  * @author auto create
- * @since 1.0, 2025-09-22 14:22:41
+ * @since 1.0, 2026-01-19 17:22:43
  */
 class AlipayCircularAgreementQueryRequest
 {

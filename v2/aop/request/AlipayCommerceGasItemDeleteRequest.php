@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.gas.item.delete request
  *
  * @author auto create
- * @since 1.0, 2025-10-10 14:02:41
+ * @since 1.0, 2025-12-03 14:49:39
  */
 class AlipayCommerceGasItemDeleteRequest
 {

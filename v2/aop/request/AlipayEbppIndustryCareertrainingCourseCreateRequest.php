@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.careertraining.course.create request
  *
  * @author auto create
- * @since 1.0, 2025-10-13 16:22:40
+ * @since 1.0, 2025-12-16 15:07:42
  */
 class AlipayEbppIndustryCareertrainingCourseCreateRequest
 {

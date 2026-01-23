@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.user.point.receive request
  *
  * @author auto create
- * @since 1.0, 2025-08-07 18:44:26
+ * @since 1.0, 2025-12-09 19:23:32
  */
 class AlipayInsAutoUserPointReceiveRequest
 {

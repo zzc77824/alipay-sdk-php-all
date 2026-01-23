@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.bill.daily.query request
  *
  * @author auto create
- * @since 1.0, 2025-10-28 12:07:41
+ * @since 1.0, 2026-01-09 10:42:44
  */
 class AlipayOpenMiniBillDailyQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.decoration.policystatus.query request
  *
  * @author auto create
- * @since 1.0, 2025-10-24 13:47:40
+ * @since 1.0, 2025-12-24 19:22:42
  */
 class AlipayCommerceDecorationPolicystatusQueryRequest
 {

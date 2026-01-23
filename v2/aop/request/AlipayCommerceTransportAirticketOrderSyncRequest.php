@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.airticket.order.sync request
  *
  * @author auto create
- * @since 1.0, 2025-07-03 15:42:33
+ * @since 1.0, 2026-01-05 17:42:42
  */
 class AlipayCommerceTransportAirticketOrderSyncRequest
 {

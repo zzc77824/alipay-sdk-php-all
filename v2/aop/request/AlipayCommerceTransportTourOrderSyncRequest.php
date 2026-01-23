@@ -3,12 +3,13 @@
  * ALIPAY API: alipay.commerce.transport.tour.order.sync request
  *
  * @author auto create
- * @since 1.0, 2025-11-03 14:42:40
+ * @since 1.0, 2025-12-26 14:42:42
  */
 class AlipayCommerceTransportTourOrderSyncRequest
 {
 	/** 
-	 * 文旅订单同步接口
+	 * 文旅订单同步接口。
+调用要求：接口具备幂等能力，接入方必须具备调用异常的重试能力。
 	 **/
 	private $bizContent;
 

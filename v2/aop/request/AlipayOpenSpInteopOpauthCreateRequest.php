@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.inteop.opauth.create request
  *
  * @author auto create
- * @since 1.0, 2025-10-27 11:07:40
+ * @since 1.0, 2025-11-21 17:02:41
  */
 class AlipayOpenSpInteopOpauthCreateRequest
 {

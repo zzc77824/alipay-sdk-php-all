@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.templatemsg.maketing.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-01-19 14:31:06
+ * @since 1.0, 2025-12-26 17:52:42
  */
 class AlipayOpenMiniTemplatemsgMaketingBatchqueryRequest
 {

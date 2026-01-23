@@ -3,10 +3,14 @@
  * ALIPAY API: alipay.multimedia.test.create request
  *
  * @author auto create
- * @since 1.0, 2025-02-17 19:45:11
+ * @since 1.0, 2025-11-14 11:17:40
  */
 class AlipayMultimediaTestCreateRequest
 {
+	/** 
+	 * 测试多场景
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AlipayMultimediaTestCreateRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.multimedia.test.create";

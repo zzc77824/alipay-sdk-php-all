@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.gas.item.modify request
  *
  * @author auto create
- * @since 1.0, 2025-10-10 13:57:40
+ * @since 1.0, 2025-12-10 17:12:42
  */
 class AlipayCommerceGasItemModifyRequest
 {

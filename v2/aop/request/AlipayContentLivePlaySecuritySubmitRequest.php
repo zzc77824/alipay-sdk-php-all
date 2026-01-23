@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.content.live.play.security.submit request
  *
  * @author auto create
- * @since 1.0, 2025-04-22 14:17:28
+ * @since 1.0, 2025-11-13 15:43:38
  */
 class AlipayContentLivePlaySecuritySubmitRequest
 {

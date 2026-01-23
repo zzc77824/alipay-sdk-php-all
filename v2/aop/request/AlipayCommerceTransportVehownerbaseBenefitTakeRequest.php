@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.vehownerbase.benefit.take request
  *
  * @author auto create
- * @since 1.0, 2025-09-24 10:52:40
+ * @since 1.0, 2025-11-28 09:42:40
  */
 class AlipayCommerceTransportVehownerbaseBenefitTakeRequest
 {
