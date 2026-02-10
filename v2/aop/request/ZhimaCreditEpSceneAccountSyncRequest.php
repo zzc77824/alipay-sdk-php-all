@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.scene.account.sync request
  *
  * @author auto create
- * @since 1.0, 2025-08-20 09:50:56
+ * @since 1.0, 2026-01-28 11:13:08
  */
 class ZhimaCreditEpSceneAccountSyncRequest
 {

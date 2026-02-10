@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.bs.enroll.submit request
  *
  * @author auto create
- * @since 1.0, 2026-01-21 20:55:57
+ * @since 1.0, 2026-01-22 20:52:42
  */
 class AlipayCommerceOperationBsEnrollSubmitRequest
 {

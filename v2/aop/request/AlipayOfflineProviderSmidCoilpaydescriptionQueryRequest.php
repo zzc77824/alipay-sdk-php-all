@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.smid.coilpaydescription.query request
  *
  * @author auto create
- * @since 1.0, 2025-08-26 17:19:01
+ * @since 1.0, 2026-01-30 16:29:03
  */
 class AlipayOfflineProviderSmidCoilpaydescriptionQueryRequest
 {

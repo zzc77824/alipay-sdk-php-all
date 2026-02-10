@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.outerpaper.callback request
  *
  * @author auto create
- * @since 1.0, 2025-11-06 10:37:41
+ * @since 1.0, 2026-01-29 14:50:15
  */
 class AlipayCommerceMedicalOuterpaperCallbackRequest
 {

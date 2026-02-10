@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.hdfappointment.query request
  *
  * @author auto create
- * @since 1.0, 2025-10-17 15:27:39
+ * @since 1.0, 2026-01-29 11:07:42
  */
 class AlipayCommerceMedicalHdfappointmentQueryRequest
 {

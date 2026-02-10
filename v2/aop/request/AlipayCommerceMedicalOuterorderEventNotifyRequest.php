@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.outerorder.event.notify request
  *
  * @author auto create
- * @since 1.0, 2025-11-06 10:37:41
+ * @since 1.0, 2026-01-29 17:08:27
  */
 class AlipayCommerceMedicalOuterorderEventNotifyRequest
 {

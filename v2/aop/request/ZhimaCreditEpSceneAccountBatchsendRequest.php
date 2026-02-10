@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.scene.account.batchsend request
  *
  * @author auto create
- * @since 1.0, 2025-06-24 16:22:29
+ * @since 1.0, 2026-01-28 11:13:54
  */
 class ZhimaCreditEpSceneAccountBatchsendRequest
 {
