@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.carsale.btoborder.sync request
  *
  * @author auto create
- * @since 1.0, 2025-12-18 17:12:41
+ * @since 1.0, 2026-04-01 14:32:44
  */
 class AlipayCommerceTransportCarsaleBtoborderSyncRequest
 {

@@ -3,10 +3,14 @@
  * ALIPAY API: alipay.trade.test.error.modify request
  *
  * @author auto create
- * @since 1.0, 2025-10-11 15:02:40
+ * @since 1.0, 2026-03-04 14:52:44
  */
 class AlipayTradeTestErrorModifyRequest
 {
+	/** 
+	 * 测试
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AlipayTradeTestErrorModifyRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.trade.test.error.modify";

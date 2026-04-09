@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.register.order.notify request
  *
  * @author auto create
- * @since 1.0, 2025-09-04 18:17:38
+ * @since 1.0, 2026-03-06 11:32:44
  */
 class AlipayCommerceMedicalRegisterOrderNotifyRequest
 {

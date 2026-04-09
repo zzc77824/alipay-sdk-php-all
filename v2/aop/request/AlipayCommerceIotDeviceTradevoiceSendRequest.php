@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.device.tradevoice.send request
  *
  * @author auto create
- * @since 1.0, 2025-08-13 14:37:42
+ * @since 1.0, 2026-03-26 10:12:45
  */
 class AlipayCommerceIotDeviceTradevoiceSendRequest
 {

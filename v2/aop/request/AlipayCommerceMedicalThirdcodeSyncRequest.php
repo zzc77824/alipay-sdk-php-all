@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.thirdcode.sync request
  *
  * @author auto create
- * @since 1.0, 2025-11-05 18:07:41
+ * @since 1.0, 2026-03-02 17:53:31
  */
 class AlipayCommerceMedicalThirdcodeSyncRequest
 {

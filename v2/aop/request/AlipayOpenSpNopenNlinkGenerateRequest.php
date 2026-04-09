@@ -3,12 +3,12 @@
  * ALIPAY API: alipay.open.sp.nopen.nlink.generate request
  *
  * @author auto create
- * @since 1.0, 2025-11-28 16:22:41
+ * @since 1.0, 2026-04-07 10:37:44
  */
 class AlipayOpenSpNopenNlinkGenerateRequest
 {
 	/** 
-	 * 生成碰一下链接
+	 * N模组链接释放
 	 **/
 	private $bizContent;
 

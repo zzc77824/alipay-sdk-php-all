@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.stock.poker.chip.send request
  *
  * @author auto create
- * @since 1.0, 2025-12-03 17:27:41
+ * @since 1.0, 2026-03-17 16:57:37
  */
 class AntfortuneStockPokerChipSendRequest
 {

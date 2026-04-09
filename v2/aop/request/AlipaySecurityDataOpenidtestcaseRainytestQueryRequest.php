@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.data.openidtestcase.rainytest.query request
  *
  * @author auto create
- * @since 1.0, 2024-12-09 16:45:05
+ * @since 1.0, 2026-03-06 14:32:44
  */
 class AlipaySecurityDataOpenidtestcaseRainytestQueryRequest
 {

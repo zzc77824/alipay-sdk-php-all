@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.honor.repay.apply request
  *
  * @author auto create
- * @since 1.0, 2026-02-09 17:17:50
+ * @since 1.0, 2026-02-26 16:32:43
  */
 class AlipayPcreditLoanHonorRepayApplyRequest
 {

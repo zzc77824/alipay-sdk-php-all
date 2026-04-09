@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.honor.amount.consult request
  *
  * @author auto create
- * @since 1.0, 2026-02-09 17:18:19
+ * @since 1.0, 2026-02-26 17:22:44
  */
 class AlipayPcreditLoanHonorAmountConsultRequest
 {

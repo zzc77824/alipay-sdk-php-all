@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.obglobal.leadsmember.create request
  *
  * @author auto create
- * @since 1.0, 2024-04-07 15:27:52
+ * @since 1.0, 2026-03-18 17:40:21
  */
 class AnttechOceanbaseObglobalLeadsmemberCreateRequest
 {

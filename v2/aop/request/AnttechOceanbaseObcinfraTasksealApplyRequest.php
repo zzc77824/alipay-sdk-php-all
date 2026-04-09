@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.obcinfra.taskseal.apply request
  *
  * @author auto create
- * @since 1.0, 2025-12-11 14:07:42
+ * @since 1.0, 2026-03-18 17:40:23
  */
 class AnttechOceanbaseObcinfraTasksealApplyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.inteop.brandchain.create request
  *
  * @author auto create
- * @since 1.0, 2026-01-06 09:42:42
+ * @since 1.0, 2026-03-20 10:32:44
  */
 class AlipayOpenSpInteopBrandchainCreateRequest
 {

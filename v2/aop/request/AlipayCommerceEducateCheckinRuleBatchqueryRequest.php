@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.checkin.rule.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-06-18 17:17:30
+ * @since 1.0, 2026-03-25 20:52:44
  */
 class AlipayCommerceEducateCheckinRuleBatchqueryRequest
 {

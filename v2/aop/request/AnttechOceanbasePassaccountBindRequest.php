@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.passaccount.bind request
  *
  * @author auto create
- * @since 1.0, 2024-12-19 19:12:21
+ * @since 1.0, 2026-03-18 17:40:21
  */
 class AnttechOceanbasePassaccountBindRequest
 {

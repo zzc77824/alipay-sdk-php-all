@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.treasury.payment.accept request
  *
  * @author auto create
- * @since 1.0, 2026-01-13 16:55:33
+ * @since 1.0, 2026-03-25 13:52:43
  */
 class AlipayDigitalmgmtTreasuryPaymentAcceptRequest
 {

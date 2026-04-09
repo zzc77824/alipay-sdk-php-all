@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.treasury.payment.cancel request
  *
  * @author auto create
- * @since 1.0, 2026-01-09 19:05:04
+ * @since 1.0, 2026-03-16 11:12:44
  */
 class AlipayDigitalmgmtTreasuryPaymentCancelRequest
 {

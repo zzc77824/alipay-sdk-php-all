@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.obccontract.create request
  *
  * @author auto create
- * @since 1.0, 2025-08-28 17:02:37
+ * @since 1.0, 2026-03-18 17:40:21
  */
 class AnttechOceanbaseObccontractCreateRequest
 {

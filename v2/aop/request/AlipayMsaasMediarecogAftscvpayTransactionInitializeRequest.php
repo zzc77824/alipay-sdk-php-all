@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.aftscvpay.transaction.initialize request
  *
  * @author auto create
- * @since 1.0, 2025-08-14 13:52:36
+ * @since 1.0, 2026-03-30 14:57:44
  */
 class AlipayMsaasMediarecogAftscvpayTransactionInitializeRequest
 {

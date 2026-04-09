@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.insurance.hkmedical.signin request
  *
  * @author auto create
- * @since 1.0, 2025-12-24 09:37:42
+ * @since 1.0, 2026-03-08 16:07:03
  */
 class AlipayCommerceMedicalInsuranceHkmedicalSigninRequest
 {

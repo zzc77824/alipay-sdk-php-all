@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.finresearch.agentframework.warrenq.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 14:51:58
+ * @since 1.0, 2026-03-10 15:28:52
  */
 class AntfortuneFinresearchAgentframeworkWarrenqQueryRequest
 {

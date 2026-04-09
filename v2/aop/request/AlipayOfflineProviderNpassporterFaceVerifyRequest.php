@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.npassporter.face.verify request
  *
  * @author auto create
- * @since 1.0, 2025-12-12 11:02:42
+ * @since 1.0, 2026-03-24 10:47:44
  */
 class AlipayOfflineProviderNpassporterFaceVerifyRequest
 {
@@ -36,6 +36,11 @@ class AlipayOfflineProviderNpassporterFaceVerifyRequest
 	 * 解决方案
 	 **/
 	private $solutionType;
+	
+	/** 
+	 * 接入方传入具体活动场次唯一ID即可，此字段作为密算证件号的关键信息，即同一场次下的人群传统一ID即可，若不填写默认以“projectID”字段作为密算计算信息。接入方调用支付宝传入的场次ID，需跟自己按密算规则传入的ID保持一致，否则会出现两侧密算后信息无法匹配。
+	 **/
+	private $subProjectId;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -111,6 +116,17 @@ class AlipayOfflineProviderNpassporterFaceVerifyRequest
 	public function getSolutionType()
 	{
 		return $this->solutionType;
+	}
+
+	public function setSubProjectId($subProjectId)
+	{
+		$this->subProjectId = $subProjectId;
+		$this->apiParas["sub_project_id"] = $subProjectId;
+	}
+
+	public function getSubProjectId()
+	{
+		return $this->subProjectId;
 	}
 
 	public function getApiMethodName()

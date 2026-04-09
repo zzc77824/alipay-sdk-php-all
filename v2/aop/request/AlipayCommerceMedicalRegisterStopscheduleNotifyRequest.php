@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.register.stopschedule.notify request
  *
  * @author auto create
- * @since 1.0, 2026-02-10 15:14:37
+ * @since 1.0, 2026-03-18 16:52:44
  */
 class AlipayCommerceMedicalRegisterStopscheduleNotifyRequest
 {

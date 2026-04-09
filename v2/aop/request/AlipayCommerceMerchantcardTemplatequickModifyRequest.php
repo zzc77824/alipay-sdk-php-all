@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.merchantcard.templatequick.modify request
  *
  * @author auto create
- * @since 1.0, 2025-12-19 11:22:42
+ * @since 1.0, 2026-03-13 15:42:43
  */
 class AlipayCommerceMerchantcardTemplatequickModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.order.fulfillment.approve request
  *
  * @author auto create
- * @since 1.0, 2025-08-19 17:07:34
+ * @since 1.0, 2026-04-03 11:02:44
  */
 class AlipayCommerceRentOrderFulfillmentApproveRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.recycle.order.modify request
  *
  * @author auto create
- * @since 1.0, 2026-01-07 17:37:42
+ * @since 1.0, 2026-03-30 14:02:45
  */
 class AlipayCommerceRecycleOrderModifyRequest
 {

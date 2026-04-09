@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.trafficshare.crowd.sync request
  *
  * @author auto create
- * @since 1.0, 2026-01-14 16:32:42
+ * @since 1.0, 2026-03-25 14:37:44
  */
 class AlipayCommerceTransportTrafficshareCrowdSyncRequest
 {

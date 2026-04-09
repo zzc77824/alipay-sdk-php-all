@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.dtbankcust.channelvoucherconfig.query request
  *
  * @author auto create
- * @since 1.0, 2025-10-10 16:47:39
+ * @since 1.0, 2026-03-02 16:07:45
  */
 class AlipayUserDtbankcustChannelvoucherconfigQueryRequest
 {

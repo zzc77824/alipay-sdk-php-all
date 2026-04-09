@@ -3,10 +3,14 @@
  * ALIPAY API: alipay.data.dataexchange.schematestapi.rainystest.query request
  *
  * @author auto create
- * @since 1.0, 2026-01-28 16:02:42
+ * @since 1.0, 2026-03-06 15:32:44
  */
 class AlipayDataDataexchangeSchematestapiRainystestQueryRequest
 {
+	/** 
+	 * Schema模型openApi的测试接口260128
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AlipayDataDataexchangeSchematestapiRainystestQueryRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.data.dataexchange.schematestapi.rainystest.query";

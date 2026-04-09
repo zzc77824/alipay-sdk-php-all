@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.nopen.license.initialize request
  *
  * @author auto create
- * @since 1.0, 2025-11-25 10:25:15
+ * @since 1.0, 2026-03-30 16:57:44
  */
 class AlipayOpenSpNopenLicenseInitializeRequest
 {

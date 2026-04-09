@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.healthca.sign.query request
  *
  * @author auto create
- * @since 1.0, 2025-10-11 17:17:40
+ * @since 1.0, 2026-03-11 16:02:43
  */
 class AlipayCommerceMedicalHealthcaSignQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.retail.benefitpublish.set request
  *
  * @author auto create
- * @since 1.0, 2025-12-16 15:47:42
+ * @since 1.0, 2026-03-24 22:57:43
  */
 class AlipayCommerceRetailBenefitpublishSetRequest
 {

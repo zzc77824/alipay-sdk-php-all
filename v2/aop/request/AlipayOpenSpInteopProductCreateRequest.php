@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.inteop.product.create request
  *
  * @author auto create
- * @since 1.0, 2026-01-09 18:37:42
+ * @since 1.0, 2026-03-19 15:52:44
  */
 class AlipayOpenSpInteopProductCreateRequest
 {

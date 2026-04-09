@@ -3,12 +3,13 @@
  * ALIPAY API: alipay.pay.agent.voice.upload request
  *
  * @author auto create
- * @since 1.0, 2026-01-09 10:27:43
+ * @since 1.0, 2026-03-17 11:17:44
  */
 class AlipayPayAgentVoiceUploadRequest
 {
 	/** 
-	 * 智能体商户将用户语音上传，用于后续智能体代理支付流程中的语音核验，进行声纹核身支付
+	 * 批式语音场景：智能体商户将用户语音上传，用于后续智能体代理支付流程中的语音核验，进行声纹核身支付
+流式语音场景：智能体商户进行流式语音初始化，用于后续智能体代理支付的建连和支付中声纹核身支付
 	 **/
 	private $bizContent;
 

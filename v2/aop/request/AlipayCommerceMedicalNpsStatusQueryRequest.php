@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.nps.status.query request
  *
  * @author auto create
- * @since 1.0, 2025-11-26 17:52:41
+ * @since 1.0, 2026-03-17 11:02:43
  */
 class AlipayCommerceMedicalNpsStatusQueryRequest
 {

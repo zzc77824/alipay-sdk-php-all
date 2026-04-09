@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.usercenter.baseinfo.query request
  *
  * @author auto create
- * @since 1.0, 2024-04-17 14:37:00
+ * @since 1.0, 2026-03-18 17:40:21
  */
 class AnttechOceanbaseUsercenterBaseinfoQueryRequest
 {

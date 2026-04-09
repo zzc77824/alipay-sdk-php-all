@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.obglobal.customer.modify request
  *
  * @author auto create
- * @since 1.0, 2025-07-31 16:57:35
+ * @since 1.0, 2026-03-18 17:40:21
  */
 class AnttechOceanbaseObglobalCustomerModifyRequest
 {

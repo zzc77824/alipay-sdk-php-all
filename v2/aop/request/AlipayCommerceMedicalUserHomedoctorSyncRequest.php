@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.user.homedoctor.sync request
  *
  * @author auto create
- * @since 1.0, 2026-01-05 10:12:42
+ * @since 1.0, 2026-03-20 19:07:44
  */
 class AlipayCommerceMedicalUserHomedoctorSyncRequest
 {

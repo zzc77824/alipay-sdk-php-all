@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.aq.token.cancel request
  *
  * @author auto create
- * @since 1.0, 2025-11-05 18:02:25
+ * @since 1.0, 2026-03-02 17:54:13
  */
 class AlipayCommerceMedicalAqTokenCancelRequest
 {

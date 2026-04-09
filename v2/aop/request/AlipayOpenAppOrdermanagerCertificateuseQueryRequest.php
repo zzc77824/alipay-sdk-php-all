@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.ordermanager.certificateuse.query request
  *
  * @author auto create
- * @since 1.0, 2025-12-15 16:37:42
+ * @since 1.0, 2026-03-05 16:28:03
  */
 class AlipayOpenAppOrdermanagerCertificateuseQueryRequest
 {

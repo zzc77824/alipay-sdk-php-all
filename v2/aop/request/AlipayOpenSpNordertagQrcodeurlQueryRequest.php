@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.nordertag.qrcodeurl.query request
  *
  * @author auto create
- * @since 1.0, 2025-11-14 13:35:57
+ * @since 1.0, 2026-03-13 23:32:44
  */
 class AlipayOpenSpNordertagQrcodeurlQueryRequest
 {
