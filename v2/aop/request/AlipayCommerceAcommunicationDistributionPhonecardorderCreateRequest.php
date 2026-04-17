@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.distribution.phonecardorder.create request
  *
  * @author auto create
- * @since 1.0, 2024-11-08 11:42:18
+ * @since 1.0, 2025-08-07 12:37:37
  */
 class AlipayCommerceAcommunicationDistributionPhonecardorderCreateRequest
 {

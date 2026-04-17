@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.smdd.customer.cart.clear request
  *
  * @author auto create
- * @since 1.0, 2025-04-08 16:22:23
+ * @since 1.0, 2025-08-20 14:27:36
  */
 class AlipayOfflineSmddCustomerCartClearRequest
 {

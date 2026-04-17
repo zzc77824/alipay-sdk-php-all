@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.localitem.allcategory.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-03 10:52:05
+ * @since 1.0, 2026-01-15 16:42:43
  */
 class AlipayOpenAppLocalitemAllcategoryQueryRequest
 {

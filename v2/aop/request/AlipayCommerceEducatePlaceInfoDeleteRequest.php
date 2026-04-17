@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.place.info.delete request
  *
  * @author auto create
- * @since 1.0, 2025-04-17 17:32:53
+ * @since 1.0, 2025-06-09 10:02:28
  */
 class AlipayCommerceEducatePlaceInfoDeleteRequest
 {

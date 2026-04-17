@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.direct.agent.check request
  *
  * @author auto create
- * @since 1.0, 2024-12-25 19:52:22
+ * @since 1.0, 2026-01-30 16:29:33
  */
 class AntMerchantExpandDirectAgentCheckRequest
 {

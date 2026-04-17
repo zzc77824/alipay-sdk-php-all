@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.identitypay.organization.sign request
  *
  * @author auto create
- * @since 1.0, 2025-04-07 17:12:58
+ * @since 1.0, 2025-08-13 14:52:43
  */
 class AlipayFundIdentitypayOrganizationSignRequest
 {

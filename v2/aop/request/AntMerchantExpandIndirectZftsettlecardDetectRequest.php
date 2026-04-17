@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.indirect.zftsettlecard.detect request
  *
  * @author auto create
- * @since 1.0, 2025-04-21 10:32:29
+ * @since 1.0, 2026-01-22 17:07:42
  */
 class AntMerchantExpandIndirectZftsettlecardDetectRequest
 {

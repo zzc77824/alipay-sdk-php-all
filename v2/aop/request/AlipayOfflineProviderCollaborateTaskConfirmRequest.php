@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.collaborate.task.confirm request
  *
  * @author auto create
- * @since 1.0, 2025-03-10 13:52:24
+ * @since 1.0, 2026-02-12 16:27:43
  */
 class AlipayOfflineProviderCollaborateTaskConfirmRequest
 {

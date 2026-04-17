@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.treeapitenth.rainystest.query request
  *
  * @author auto create
- * @since 1.0, 2025-03-06 17:02:28
+ * @since 1.0, 2026-01-23 16:00:32
  */
 class AlipayDataDataserviceTreeapitenthRainystestQueryRequest
 {

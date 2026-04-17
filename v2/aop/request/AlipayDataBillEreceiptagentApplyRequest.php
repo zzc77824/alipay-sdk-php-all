@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.bill.ereceiptagent.apply request
  *
  * @author auto create
- * @since 1.0, 2025-01-07 16:37:23
+ * @since 1.0, 2026-03-25 14:54:53
  */
 class AlipayDataBillEreceiptagentApplyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.tradecomplain.feedback.submit request
  *
  * @author auto create
- * @since 1.0, 2025-03-12 16:40:01
+ * @since 1.0, 2026-02-04 11:07:42
  */
 class AlipayMerchantTradecomplainFeedbackSubmitRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.charger.siteselection.create request
  *
  * @author auto create
- * @since 1.0, 2024-11-28 13:22:21
+ * @since 1.0, 2025-07-02 19:17:31
  */
 class AlipayCommerceTransportChargerSiteselectionCreateRequest
 {

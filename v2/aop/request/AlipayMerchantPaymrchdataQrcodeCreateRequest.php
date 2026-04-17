@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.paymrchdata.qrcode.create request
  *
  * @author auto create
- * @since 1.0, 2025-01-21 13:32:24
+ * @since 1.0, 2026-03-31 13:42:43
  */
 class AlipayMerchantPaymrchdataQrcodeCreateRequest
 {

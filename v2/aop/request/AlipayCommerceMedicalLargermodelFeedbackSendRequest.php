@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.largermodel.feedback.send request
  *
  * @author auto create
- * @since 1.0, 2025-03-31 14:07:27
+ * @since 1.0, 2025-08-08 11:37:35
  */
 class AlipayCommerceMedicalLargermodelFeedbackSendRequest
 {

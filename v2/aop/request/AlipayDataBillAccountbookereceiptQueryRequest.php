@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.bill.accountbookereceipt.query request
  *
  * @author auto create
- * @since 1.0, 2024-11-15 16:42:20
+ * @since 1.0, 2025-09-28 15:42:39
  */
 class AlipayDataBillAccountbookereceiptQueryRequest
 {

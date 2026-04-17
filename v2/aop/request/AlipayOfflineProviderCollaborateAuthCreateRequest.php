@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.collaborate.auth.create request
  *
  * @author auto create
- * @since 1.0, 2025-02-24 10:32:23
+ * @since 1.0, 2026-01-30 16:32:10
  */
 class AlipayOfflineProviderCollaborateAuthCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.inputinvoice.online.certify request
  *
  * @author auto create
- * @since 1.0, 2023-08-30 16:41:43
+ * @since 1.0, 2025-11-21 10:28:14
  */
 class AlipayBossFncInputinvoiceOnlineCertifyRequest
 {

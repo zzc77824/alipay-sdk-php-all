@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.sideloansign.close.apply request
  *
  * @author auto create
- * @since 1.0, 2024-12-02 17:42:14
+ * @since 1.0, 2025-08-07 11:12:37
  */
 class AlipayPcreditLoanSideloansignCloseApplyRequest
 {

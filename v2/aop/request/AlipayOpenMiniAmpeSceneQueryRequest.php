@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.ampe.scene.query request
  *
  * @author auto create
- * @since 1.0, 2024-09-05 17:42:03
+ * @since 1.0, 2026-02-25 11:06:26
  */
 class AlipayOpenMiniAmpeSceneQueryRequest
 {

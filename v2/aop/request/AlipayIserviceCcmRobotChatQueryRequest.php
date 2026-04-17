@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.robot.chat.query request
  *
  * @author auto create
- * @since 1.0, 2024-06-21 12:27:05
+ * @since 1.0, 2025-11-27 15:47:42
  */
 class AlipayIserviceCcmRobotChatQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.assetdelivery.assign.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 15:51:34
+ * @since 1.0, 2026-04-01 14:07:44
  */
 class AntMerchantExpandAssetdeliveryAssignQueryRequest
 {

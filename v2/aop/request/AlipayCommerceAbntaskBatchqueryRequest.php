@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.abntask.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-11-26 13:32:54
+ * @since 1.0, 2025-10-14 16:38:08
  */
 class AlipayCommerceAbntaskBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.anthotlinemng.recording.query request
  *
  * @author auto create
- * @since 1.0, 2023-12-11 10:46:55
+ * @since 1.0, 2026-03-30 11:19:29
  */
 class AlipayIserviceAnthotlinemngRecordingQueryRequest
 {

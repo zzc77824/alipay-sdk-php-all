@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.onlineerror.rainy.query request
  *
  * @author auto create
- * @since 1.0, 2025-04-16 10:12:33
+ * @since 1.0, 2025-08-07 12:32:37
  */
 class AlipayDataDataserviceOnlineerrorRainyQueryRequest
 {

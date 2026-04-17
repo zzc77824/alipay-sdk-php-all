@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.housing.apartment.add request
  *
  * @author auto create
- * @since 1.0, 2025-04-14 11:17:29
+ * @since 1.0, 2025-07-08 19:52:30
  */
 class AlipayCommerceHousingApartmentAddRequest
 {

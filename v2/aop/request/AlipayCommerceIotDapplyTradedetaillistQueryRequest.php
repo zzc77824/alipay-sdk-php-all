@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.dapply.tradedetaillist.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 21:49:36
+ * @since 1.0, 2025-11-18 15:17:41
  */
 class AlipayCommerceIotDapplyTradedetaillistQueryRequest
 {

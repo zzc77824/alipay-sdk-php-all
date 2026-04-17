@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.waybill.operation.confirm request
  *
  * @author auto create
- * @since 1.0, 2025-04-11 11:42:28
+ * @since 1.0, 2025-06-03 10:17:25
  */
 class AlipayCommerceLogisticsWaybillOperationConfirmRequest
 {

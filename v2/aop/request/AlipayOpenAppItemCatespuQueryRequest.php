@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.item.catespu.query request
  *
  * @author auto create
- * @since 1.0, 2025-03-31 19:57:27
+ * @since 1.0, 2025-09-15 13:49:32
  */
 class AlipayOpenAppItemCatespuQueryRequest
 {

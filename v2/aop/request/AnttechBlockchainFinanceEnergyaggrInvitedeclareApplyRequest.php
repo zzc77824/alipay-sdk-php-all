@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.energyaggr.invitedeclare.apply request
  *
  * @author auto create
- * @since 1.0, 2024-12-20 15:22:21
+ * @since 1.0, 2026-02-28 16:27:50
  */
 class AnttechBlockchainFinanceEnergyaggrInvitedeclareApplyRequest
 {

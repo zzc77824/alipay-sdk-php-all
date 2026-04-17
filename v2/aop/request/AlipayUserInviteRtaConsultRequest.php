@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.invite.rta.consult request
  *
  * @author auto create
- * @since 1.0, 2025-01-23 13:40:28
+ * @since 1.0, 2025-08-13 14:32:39
  */
 class AlipayUserInviteRtaConsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.ampe.collectright.query request
  *
  * @author auto create
- * @since 1.0, 2024-09-05 17:42:01
+ * @since 1.0, 2026-02-25 11:06:55
  */
 class AlipayOpenMiniAmpeCollectrightQueryRequest
 {

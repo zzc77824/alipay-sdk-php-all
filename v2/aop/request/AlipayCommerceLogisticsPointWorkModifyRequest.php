@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.point.work.modify request
  *
  * @author auto create
- * @since 1.0, 2025-04-17 11:16:42
+ * @since 1.0, 2026-03-23 13:47:43
  */
 class AlipayCommerceLogisticsPointWorkModifyRequest
 {

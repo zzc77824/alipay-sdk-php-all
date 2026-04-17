@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.sideloanlend.lend.apply request
  *
  * @author auto create
- * @since 1.0, 2025-04-14 21:14:49
+ * @since 1.0, 2025-12-04 11:27:42
  */
 class AlipayPcreditLoanSideloanlendLendApplyRequest
 {

@@ -3,12 +3,13 @@
  * ALIPAY API: alipay.commerce.rent.risk.consult request
  *
  * @author auto create
- * @since 1.0, 2025-04-21 20:07:27
+ * @since 1.0, 2026-03-31 17:37:44
  */
 class AlipayCommerceRentRiskConsultRequest
 {
 	/** 
-	 * 租赁行业风险咨询
+	 * 租赁行业风险咨询接口，通过商家侧唯一订单号 out_biz_no、uid/openid，查询当前订单用户的共租风险等级、租安盾综合风险等级等数据信息。
+<a href="https://opendocs.alipay.com/pre-open/repo-03lpa5" target="_blank"> 租安盾接入指南</a>
 	 **/
 	private $bizContent;
 

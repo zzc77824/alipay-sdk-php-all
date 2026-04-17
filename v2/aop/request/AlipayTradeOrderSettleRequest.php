@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.order.settle request
  *
  * @author auto create
- * @since 1.0, 2025-02-28 16:47:25
+ * @since 1.0, 2026-02-03 11:35:31
  */
 class AlipayTradeOrderSettleRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.subaccount.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:01
+ * @since 1.0, 2026-03-18 17:40:19
  */
 class AnttechOceanbaseSubaccountQueryRequest
 {

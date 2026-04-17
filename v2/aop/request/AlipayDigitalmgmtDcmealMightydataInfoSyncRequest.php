@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.dcmeal.mightydata.info.sync request
  *
  * @author auto create
- * @since 1.0, 2024-03-11 13:36:58
+ * @since 1.0, 2026-04-08 13:47:44
  */
 class AlipayDigitalmgmtDcmealMightydataInfoSyncRequest
 {
